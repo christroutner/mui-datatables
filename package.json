@@ -1,5 +1,5 @@
 {
-  "name": "mui-datatables",
+  "name": "@chris.troutner/mui-datatables",
   "version": "4.3.0",
   "description": "Datatables for React using Material-UI",
   "main": "dist/index.js",
@@ -98,11 +98,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "peerDependencies": {
-    "@emotion/react": "^11.10.5",
-    "@mui/icons-material": "^5.11.0",
-    "@mui/material": "^5.11.0",
-    "react": "^16.8.0 || ^17.0.2 || ^18.2.0",
-    "react-dom": "^16.8.0 || ^17.0.2 || ^18.2.0"
   },
   "dependencies": {
     "@babel/runtime-corejs3": "^7.12.1",

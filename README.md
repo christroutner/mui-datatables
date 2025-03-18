@@ -1,3 +1,11 @@
+# @chris.troutner/mui-datatables
+
+This is a fork. The original readme is below.
+
+This fork removes the peer dependencies in package.json, so that this package can be used without having to use the `--force` flag when installing.
+
+-----
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/19170080/34070522-e15d32e2-e235-11e7-8af5-fa704cdcad56.png" />
 </div>
